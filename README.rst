@@ -3,9 +3,11 @@ Mflix
 =====
 
 This is the project used for MongoDB University's M220JS course. 
+
 https://university.mongodb.com/mercury/M220JS/2020_September_22/overview
 
 My certificate of completion can be found here
+
 http://university.mongodb.com/course_completion/f6be7c39-a295-4379-a13e-16d88fd33b85
 
 
